@@ -28,7 +28,7 @@ public class FixedLengthTest {
     	
     		resultArray.add(map);
     		
-    		pos = fixedLength[i]+1;
+    		pos += fixedLength[i];
     	}
     	
     	return resultArray;
