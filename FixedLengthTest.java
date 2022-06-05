@@ -5,7 +5,7 @@ import java.util.Map;
 public class FixedLengthTest {
 	
 	/*
-	 * fixed Length
+	 * fixed Length 
 	 */    
     static final int uniqueIdLeng = 12;
     static final int nameLeng     = 15;
