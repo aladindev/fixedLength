@@ -32,7 +32,7 @@ public class FixedLengthTest {
     	}
     	
     	return resultArray;
-    	
+    	 
     }
     
 	public static void main(String[] args) {
